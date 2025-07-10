@@ -1,0 +1,18 @@
+19,2G,{2G}
+20,4G,{4G}
+21,Physical,"{2G,2G+4G}"
+22,Vendor,"{Huawei,ZTE}"
+23,Region,"{South,North,'"Central B'",'"Central A'"}"
+24,Coverage_Type,"{Macro,Micro}"
+26,usf_site,"{No,Yes}"
+27,Commercial District,"{Batagram,'"Rahim Yar Khan'",Sargodha,Khanewal,Bahawalpur,Abbottabad,Multan,Khushab,Jhelum,Sanghar,Ghotki,Lodhran,Shikarpur,Khairpur,'"Toba Tek Singh'",Sahiwal,Larkana,Attock,Bahawalnagar,'"Mandi Bahauddin'",Mianwali,Nowshera,Kashmore,'"Tando Allahyar'",Gujranwala,Jacobabad,Jaffarabad,Dadu,Okara,Shangla,Jamshoro,'"Shaheed Benazirabad'",'"Lakki Marwat'",Jhang,Faisalabad,Pakpattan,Badin,Chiniot,'"Umer Kot'",'"Dera Ismail Khan'",Chitral,Shahdadkot,'"Dera Ghazi Khan'",Chakwal,Narowal,Mardan,Vehari,Lasbela,Mansehra,Bagh,Gujrat,Lehri,Rawalpindi,Bhakkar,Swat,Matiari,'"Bajaur Agency'",'"Lower Dir'",'"Upper Dir'",Kasur,'"Naushahro Feroze'",Bhimber,Layyah,Bannu,Sialkot,Muzaffargarh,Kohistan,'"Malakand Protected Area'",'"Nankana Sahib'",Thatta,'"Tando Mohammad Khan'",Sujawal,'"Mirpur Khas'",'"Thar Parkar'",Chagai,Charsadda,Sukkur,Diamir,'"Killa Abdullah'",Kohat,Washuk,Kachhi(Bolan),Kotli,Mirpur,Buner,Rajanpur,Loralai,Nasirabad,Poonch,Muzaffarabad,Mastung,Sheikhupura,Barkhan,Swabi,Hattian,Ghizer,Gilgit,Gwadar,Peshawar,Hafizabad,Malir,Pishin,Hyderabad,Sohbatpur,Hangu,Harnai,Hunza,Nagar,Haripur,'"Karachi West'",Islamabad,Tank,Lahore,Karak,'"Khyber Agency'",'"Jhal Magsi'",Quetta,'"Karachi East'",Korangi,Kalat,Ghanche,Kharmang,'"Kurram Agency'",Kharan,Sudhnoti,Khuzdar,'"Killa Saifullah'",'"South Waziristan Agency'",'"Mohmand Agency'",Nushki,'"North Waziristan Agency'",'"Orakzai Agency'",Astore,Shigar,Sibi,Baltistan,'"Dera Bugti'",Ziarat,Kech,Panjgur,Zhob,Musakhel}"
+28,Commercial Subregion,"{'"North 3'",'"Central 7'",'"Central 5'",'"Central 6'",'"North 1'",'"South 2'",'"South 3'",'"Central 3'",'"Central 4'",'"North 2'",'"Central 2'",'"South 1'",'"South 4'",'"Central 1'"}"
+29,Commercial Region,"{North,'"Central B'",South,'"Central A'"}"
+30,PTA Province,"{'"KHYBER PAKHTUNKHWA'",PUNJAB,SINDH,BALOCHISTAN,'"AZAD JAMMU & KASHMIR'",FATA,'"GILGIT BALTISTAN'",ICT}"
+31,Site Type,"{'"Own Built'",COLO,'"Tower co B2S'",OMO,'"B2S/Own power'"}"
+32,site_sharing_type,"{Guest,Host}"
+33,OMO Name,"{Enfra-COLO,CMPAK,Enfrashare,Telenor,PTCL,Ufone,'"Telenor Ufone'",'"CMPAK Telenor Ufone'",'"E.co - COLO'",E.co,ATL,'"CMPAK Telenor'",Tawal,'"CMPAK Ufone'",Wateen,'"CMPAK PAK NAVY'",'"CMPAK SCO Telenor'",'"PAK NAVY'",'"Military Comm. Tower'",'"PTCL Telenor'",MKZ,PAF,EMTEL,'"PAF Ufone'",'"DHA Telemann'",Awal}"
+34,4G Capacity,"{'"No 4G'",2T2R,4T4R,4T6S,MM,2T4R,1T2R,1T1R}"
+35,2G Locked Tag,"{'"Locked/ Flood & Rain Affected'",Locked,'"Locked/ Damaged'",'"Locked/ Relocation'",'"Locked/ Dismantled'",'"Locked/ Dismantled/ Relocation'",'"Locked/ PTA'"}"
+36,4G Locked Tag,"{'"Locked/ Flood & Rain Affected'",Locked,'"Locked/ PTA'",'"Locked/ Relocation'",'"Locked/ Dismantled/ Relocation'",'"Locked/ Dismantled'",'"Locked/ Damaged'"}"
+25,Site_Status,{Active}
